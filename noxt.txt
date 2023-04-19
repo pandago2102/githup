@@ -1,0 +1,5 @@
+cach de tao mot local reponstory: git init
+khi khoiwr taoj local repo thanhf coong sex xuat hien 1 thuw mục ân git bên trong dự án 
+cahs kết nới remote repo với local repo lai với nhau : dùng lệnh git remote add ogilin kèm ủl đường dẫn tới sourece code trên remote
+Các bước đẻ đảy code chúng ra lên Remote Repo 
+b1: Sẽ day cac file co su thay doi len stagìng area. dùng lênh git + add tên file nêú muốn đảy từng file muốn đảy tát cả thì dùng lenh git add .,de kiem tra su thay doi ta co the dung lenh git status , muoons dao nguoc lai viec them cac file co su thay doi cta co the dung lenh git reset
