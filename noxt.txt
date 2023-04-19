@@ -3,3 +3,5 @@ khi khoiwr taoj local repo thanhf coong sex xuat hien 1 thuw mục ân git bên 
 cahs kết nới remote repo với local repo lai với nhau : dùng lệnh git remote add ogilin kèm ủl đường dẫn tới sourece code trên remote
 Các bước đẻ đảy code chúng ra lên Remote Repo 
 b1: Sẽ day cac file co su thay doi len stagìng area. dùng lênh git + add tên file nêú muốn đảy từng file muốn đảy tát cả thì dùng lenh git add .,de kiem tra su thay doi ta co the dung lenh git status , muoons dao nguoc lai viec them cac file co su thay doi cta co the dung lenh git reset
+b2: tao ra commit de ghi chu lau su that doi code chung ta fung lenh git commit -m "..." , muon kiem tra cac commit dang co se dung lenh git log
+b3: day code tu local repo len remote repo de luu tru , lan dua se dung git push -u origin + ten nhanh , nhung lan sau chi can dung lenh git push origin 
